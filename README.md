@@ -2,11 +2,20 @@
 
 ## Projects
 
-* **Project 1 (N-gram models):** Test various n-gram models on Reuters.
-* **Project 2 (Transformer Architecture Implementation and Machine Translation):** Implement Transformer model architecture form scratch. Train the model on a machine translation task from German to English using the Multi30k dataset. Implement greedy decoding and beam search for translation.
-* **Project 3 (Text Summarization with HuggingFace BART):**  Evaluated summarization of 3 pre-trained Hugging Face Transformer models BART, T5, Pegasus on SAMSum dataset. Improved BART model’s ROUGE score on testing set from 28.7 to 37.5 by fine-tuning with Mixed Precision (AMP).
-* **Project 4 (Prompt Engineering and Few-Shot Learning with Flan-T5 for Dialogue Summarization):** Performed prompt engineering on Flan-T5 using dialogsum dataset with instructional prompts and pre-built T5 prompts. Experimented with zero-shot and few-shot learning to assess their impact on summaries' relevance and coherence.
-* **Project 5 (Fine-Tuning Flan-T5 with PEFT (LoRA)):**
+* **Project 1 (N-gram models):** 
+    * Test various n-gram models on Reuters.
+* **Project 2 (Transformer Architecture Implementation and Machine Translation):** 
+    * Implemented Transformer model architecture form scratch. Train the model on a machine translation task from German to English using the Multi30k dataset. 
+    * Implemented greedy decoding and beam search for translation.
+* **Project 3 (Text Summarization with HuggingFace BART):**     
+    * Evaluated summarization of 3 pre-trained Hugging Face Transformer models BART, T5, Pegasus on SAMSum dataset. 
+    * Improved BART model’s ROUGE score on testing set from 28.7 to 37.5 by fine-tuning with Mixed Precision (AMP).
+* **Project 4 (Prompt Engineering and Few-Shot Learning with Flan-T5 for Dialogue Summarization):** 
+    * Performed prompt engineering on Flan-T5 using dialogsum dataset with instructional prompts and pre-built T5 prompts. 
+    * Experimented with zero-shot and few-shot learning to assess their impact on summaries' relevance and coherence.
+* **Project 5 (Fine-Tuning Flan-T5 with PEFT (LoRA)):**        
+    * Fine-tuned Flan-T5 LLM for dialogue summarization, employing full and parameter-efficient techniques (PEFT), achieving enhanced performance metrics evaluated via ROUGE scores. 
+    * Applied Low-Rank Adaptation (LoRA) to optimize training efficiency, reducing computational resources while maintaining high accuracy in AI-driven summarization tasks.
 
 ### Syllabus
 
