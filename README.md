@@ -1,4 +1,6 @@
-# DS5983 Special Topics in Data Science - LLMs
+# Large Language Models (LLMs) Projects 
+
+These projects are part of DS5983 Special Topics in Data Science - LLMs at Khoury Collge, Northeastern University.
 
 ## Projects
 
@@ -16,6 +18,8 @@
 * **Project 5 (Fine-Tuning Flan-T5 with PEFT (LoRA)):**        
     * Fine-tuned Flan-T5 LLM for dialogue summarization, employing full and parameter-efficient techniques (PEFT), achieving enhanced performance metrics evaluated via ROUGE scores. 
     * Applied Low-Rank Adaptation (LoRA) to optimize training efficiency, reducing computational resources while maintaining high accuracy in AI-driven summarization tasks.
+* **Final Project (Chatbot leveraging RAG for Financial Document (10Q, 10K) Summarization)**: Check [github.com/kHarshit/Financial_Document_Summarization_through_RAG](https://github.com/kHarshit/Financial_Document_Summarization_through_RAG)
+     * Developed Chatbot leveraging Retrieval Augmented Generation (RAG) with GPT, LLama 2, Gemma models to extract, summarize key performance indicators (KPIs) from 10-Q financial docs with LangChain, HuggingFace for LLM, Chroma for vector databases
 
 ### Syllabus
 
